@@ -6,7 +6,7 @@
 ### How to contribute?
 1. Clone this repository
 ```
-https://github.com/krekz/ordersystem-laravel.git 
+git clone https://github.com/krekz/ordersystem-laravel.git 
 ```
 2.  Pull the cloned repo
 ```
